@@ -1,0 +1,7 @@
+{
+    "name": "aegon/php-refactoring",
+    "description": "PHP refactoring",
+    "autoload": {
+        "psr-4": {"Language\\": "src/"}
+    }
+}
